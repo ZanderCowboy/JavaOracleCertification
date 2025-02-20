@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Section 2 - Java Fundamentals.iml" filepath="$PROJECT_DIR$/.idea/Section 2 - Java Fundamentals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstract-final-summary-original/abstract-final-summary-original.iml" filepath="$PROJECT_DIR$/abstract-final-summary-original/abstract-final-summary-original.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstract-final-summary-original (1)/abstract-final-summary-original (1).iml" filepath="$PROJECT_DIR$/abstract-final-summary-original (1)/abstract-final-summary-original (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstract-modifier-in-class-definitions/abstract-modifier-in-class-definitions.iml" filepath="$PROJECT_DIR$/abstract-modifier-in-class-definitions/abstract-modifier-in-class-definitions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adding-members-to-a-enum/adding-members-to-a-enum.iml" filepath="$PROJECT_DIR$/adding-members-to-a-enum/adding-members-to-a-enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/complex-enums/complex-enums.iml" filepath="$PROJECT_DIR$/complex-enums/complex-enums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creating-and-using-enumations/creating-and-using-enumations.iml" filepath="$PROJECT_DIR$/creating-and-using-enumations/creating-and-using-enumations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creating-and-using-local-classes/creating-and-using-local-classes.iml" filepath="$PROJECT_DIR$/creating-and-using-local-classes/creating-and-using-local-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/final-modifier-in-class-definitions/final-modifier-in-class-definitions.iml" filepath="$PROJECT_DIR$/final-modifier-in-class-definitions/final-modifier-in-class-definitions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inner-class-fields-and-variable-shadowing/inner-class-fields-and-variable-shadowing.iml" filepath="$PROJECT_DIR$/inner-class-fields-and-variable-shadowing/inner-class-fields-and-variable-shadowing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-fundementals-out-of-the-ordinary-part-1/java-fundementals-out-of-the-ordinary-part-1.iml" filepath="$PROJECT_DIR$/java-fundementals-out-of-the-ordinary-part-1/java-fundementals-out-of-the-ordinary-part-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-fundementals-out-of-the-ordinary-part-2/java-fundementals-out-of-the-ordinary-part-2.iml" filepath="$PROJECT_DIR$/java-fundementals-out-of-the-ordinary-part-2/java-fundementals-out-of-the-ordinary-part-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-more-on-anonymous-classes-and-nested-class-summary/java-more-on-anonymous-classes-and-nested-class-summary.iml" filepath="$PROJECT_DIR$/java-more-on-anonymous-classes-and-nested-class-summary/java-more-on-anonymous-classes-and-nested-class-summary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/local-var-shadowing-and-static-nested-inner-member-class-sum/local-var-shadowing-and-static-nested-inner-member-class-sum.iml" filepath="$PROJECT_DIR$/local-var-shadowing-and-static-nested-inner-member-class-sum/local-var-shadowing-and-static-nested-inner-member-class-sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/more-on-local-classes-and-anonymous-classes/more-on-local-classes-and-anonymous-classes.iml" filepath="$PROJECT_DIR$/more-on-local-classes-and-anonymous-classes/more-on-local-classes-and-anonymous-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/non-static-inner-member-class/non-static-inner-member-class.iml" filepath="$PROJECT_DIR$/non-static-inner-member-class/non-static-inner-member-class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/referencing-instance-members-from-a-static-nested-class/referencing-instance-members-from-a-static-nested-class.iml" filepath="$PROJECT_DIR$/referencing-instance-members-from-a-static-nested-class/referencing-instance-members-from-a-static-nested-class.iml" />
+    </modules>
+  </component>
+</project>
